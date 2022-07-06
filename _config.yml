@@ -1,6 +1,14 @@
-title: Minimal theme
+title: <p align="center"> Prateek Ranjan Meher </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+    <a href="https://www.linkedin.com/in/prateek-ranjan-meher-6416b9165/">LinkedIn</a>
+    <a href="https://github.com/prateek576">GitHub</a>
+    <br>   
+    I'm working on Thomson Reuters.
+    Working in AdTech domain for 2 years.
+    <br>
+  </p>
+
 theme: jekyll-theme-minimal
